@@ -161,7 +161,7 @@ export default function Skills() {
         <FadeInSection>
           <div className="mt-16 grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { label: 'Years Experience', value: '1+' },
+              { label: 'Years Experience', value: '3+' },
               { label: 'Projects Completed', value: '5+' },
               { label: 'Technologies', value: '25+' },
               { label: 'K8s Clusters Managed', value: '4+' },
